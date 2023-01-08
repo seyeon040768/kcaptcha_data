@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/ey12_040262.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "e",
+      "xmin": 42,
+      "ymin": 0,
+      "xmax": 62,
+      "ymax": 59
+    },
+    {
+      "label": "y",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 88,
+      "ymax": 59
+    },
+    {
+      "label": "1",
+      "xmin": 72,
+      "ymin": 0,
+      "xmax": 103,
+      "ymax": 59
+    },
+    {
+      "label": "2",
+      "xmin": 91,
+      "ymin": 0,
+      "xmax": 115,
+      "ymax": 59
+    }
+  ]
+}

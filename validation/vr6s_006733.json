@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/vr6s_006733.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "v",
+      "xmin": 40,
+      "ymin": 0,
+      "xmax": 71,
+      "ymax": 59
+    },
+    {
+      "label": "r",
+      "xmin": 54,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "6",
+      "xmin": 78,
+      "ymin": 0,
+      "xmax": 105,
+      "ymax": 59
+    },
+    {
+      "label": "s",
+      "xmin": 97,
+      "ymin": 0,
+      "xmax": 117,
+      "ymax": 59
+    }
+  ]
+}

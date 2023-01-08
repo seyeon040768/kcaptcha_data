@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/o77d_008405.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "o",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 60,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 56,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 72,
+      "ymin": 0,
+      "xmax": 103,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 94,
+      "ymin": 0,
+      "xmax": 118,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/av23_006047.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "a",
+      "xmin": 46,
+      "ymin": 0,
+      "xmax": 76,
+      "ymax": 59
+    },
+    {
+      "label": "v",
+      "xmin": 59,
+      "ymin": 0,
+      "xmax": 89,
+      "ymax": 59
+    },
+    {
+      "label": "2",
+      "xmin": 69,
+      "ymin": 0,
+      "xmax": 97,
+      "ymax": 59
+    },
+    {
+      "label": "3",
+      "xmin": 83,
+      "ymin": 0,
+      "xmax": 119,
+      "ymax": 59
+    }
+  ]
+}

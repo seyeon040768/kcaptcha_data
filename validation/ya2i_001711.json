@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/ya2i_001711.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "y",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "a",
+      "xmin": 62,
+      "ymin": 0,
+      "xmax": 94,
+      "ymax": 59
+    },
+    {
+      "label": "2",
+      "xmin": 85,
+      "ymin": 0,
+      "xmax": 106,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 101,
+      "ymin": 0,
+      "xmax": 116,
+      "ymax": 59
+    }
+  ]
+}

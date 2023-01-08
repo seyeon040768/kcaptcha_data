@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/th3j_023398.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "t",
+      "xmin": 47,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 58,
+      "ymin": 0,
+      "xmax": 97,
+      "ymax": 59
+    },
+    {
+      "label": "3",
+      "xmin": 76,
+      "ymin": 0,
+      "xmax": 112,
+      "ymax": 59
+    },
+    {
+      "label": "j",
+      "xmin": 92,
+      "ymin": 0,
+      "xmax": 117,
+      "ymax": 59
+    }
+  ]
+}

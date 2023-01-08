@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/ogvn_000729.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "o",
+      "xmin": 27,
+      "ymin": 0,
+      "xmax": 57,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 50,
+      "ymin": 0,
+      "xmax": 79,
+      "ymax": 59
+    },
+    {
+      "label": "v",
+      "xmin": 66,
+      "ymin": 0,
+      "xmax": 107,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 97,
+      "ymin": 0,
+      "xmax": 129,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/twsz_058772.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "t",
+      "xmin": 35,
+      "ymin": 0,
+      "xmax": 55,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 43,
+      "ymin": 0,
+      "xmax": 90,
+      "ymax": 59
+    },
+    {
+      "label": "s",
+      "xmin": 80,
+      "ymin": 0,
+      "xmax": 96,
+      "ymax": 59
+    },
+    {
+      "label": "z",
+      "xmin": 92,
+      "ymin": 0,
+      "xmax": 120,
+      "ymax": 59
+    }
+  ]
+}

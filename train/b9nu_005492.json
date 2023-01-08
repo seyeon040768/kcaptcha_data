@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/b9nu_005492.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "b",
+      "xmin": 36,
+      "ymin": 0,
+      "xmax": 60,
+      "ymax": 59
+    },
+    {
+      "label": "9",
+      "xmin": 54,
+      "ymin": 0,
+      "xmax": 83,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 71,
+      "ymin": 0,
+      "xmax": 105,
+      "ymax": 59
+    },
+    {
+      "label": "u",
+      "xmin": 96,
+      "ymin": 0,
+      "xmax": 121,
+      "ymax": 59
+    }
+  ]
+}

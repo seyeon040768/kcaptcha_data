@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/4rwz_043149.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "4",
+      "xmin": 32,
+      "ymin": 0,
+      "xmax": 56,
+      "ymax": 59
+    },
+    {
+      "label": "r",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 68,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 64,
+      "ymin": 0,
+      "xmax": 110,
+      "ymax": 59
+    },
+    {
+      "label": "z",
+      "xmin": 103,
+      "ymin": 0,
+      "xmax": 130,
+      "ymax": 59
+    }
+  ]
+}

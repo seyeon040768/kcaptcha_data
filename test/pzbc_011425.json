@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/pzbc_011425.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "p",
+      "xmin": 33,
+      "ymin": 0,
+      "xmax": 66,
+      "ymax": 59
+    },
+    {
+      "label": "z",
+      "xmin": 54,
+      "ymin": 0,
+      "xmax": 94,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 69,
+      "ymin": 0,
+      "xmax": 110,
+      "ymax": 59
+    },
+    {
+      "label": "c",
+      "xmin": 101,
+      "ymin": 0,
+      "xmax": 128,
+      "ymax": 59
+    }
+  ]
+}

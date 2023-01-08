@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/2gis_050617.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "2",
+      "xmin": 41,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 57,
+      "ymin": 0,
+      "xmax": 98,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 80,
+      "ymin": 0,
+      "xmax": 110,
+      "ymax": 59
+    },
+    {
+      "label": "s",
+      "xmin": 94,
+      "ymin": 0,
+      "xmax": 121,
+      "ymax": 59
+    }
+  ]
+}

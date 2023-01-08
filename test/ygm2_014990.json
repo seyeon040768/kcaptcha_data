@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/ygm2_014990.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "y",
+      "xmin": 35,
+      "ymin": 0,
+      "xmax": 59,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 47,
+      "ymin": 0,
+      "xmax": 73,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 63,
+      "ymin": 0,
+      "xmax": 114,
+      "ymax": 59
+    },
+    {
+      "label": "2",
+      "xmin": 102,
+      "ymin": 0,
+      "xmax": 126,
+      "ymax": 59
+    }
+  ]
+}

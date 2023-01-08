@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/kaui_050913.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "k",
+      "xmin": 40,
+      "ymin": 0,
+      "xmax": 71,
+      "ymax": 59
+    },
+    {
+      "label": "a",
+      "xmin": 57,
+      "ymin": 0,
+      "xmax": 95,
+      "ymax": 59
+    },
+    {
+      "label": "u",
+      "xmin": 75,
+      "ymin": 0,
+      "xmax": 116,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 103,
+      "ymin": 0,
+      "xmax": 123,
+      "ymax": 59
+    }
+  ]
+}

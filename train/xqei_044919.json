@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/xqei_044919.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "x",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 66,
+      "ymax": 59
+    },
+    {
+      "label": "q",
+      "xmin": 54,
+      "ymin": 0,
+      "xmax": 98,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 80,
+      "ymin": 0,
+      "xmax": 111,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 101,
+      "ymin": 0,
+      "xmax": 121,
+      "ymax": 59
+    }
+  ]
+}

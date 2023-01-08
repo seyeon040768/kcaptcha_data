@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/gni4_039420.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "g",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 59,
+      "ymin": 0,
+      "xmax": 89,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 75,
+      "ymin": 0,
+      "xmax": 102,
+      "ymax": 59
+    },
+    {
+      "label": "4",
+      "xmin": 87,
+      "ymin": 0,
+      "xmax": 127,
+      "ymax": 59
+    }
+  ]
+}

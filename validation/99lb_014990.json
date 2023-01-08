@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/99lb_014990.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "9",
+      "xmin": 41,
+      "ymin": 0,
+      "xmax": 68,
+      "ymax": 59
+    },
+    {
+      "label": "9",
+      "xmin": 59,
+      "ymin": 0,
+      "xmax": 88,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 73,
+      "ymin": 0,
+      "xmax": 99,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 82,
+      "ymin": 0,
+      "xmax": 124,
+      "ymax": 59
+    }
+  ]
+}

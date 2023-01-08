@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/0utc_033959.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "0",
+      "xmin": 37,
+      "ymin": 0,
+      "xmax": 65,
+      "ymax": 59
+    },
+    {
+      "label": "u",
+      "xmin": 54,
+      "ymin": 0,
+      "xmax": 97,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 83,
+      "ymin": 0,
+      "xmax": 107,
+      "ymax": 59
+    },
+    {
+      "label": "c",
+      "xmin": 98,
+      "ymin": 0,
+      "xmax": 123,
+      "ymax": 59
+    }
+  ]
+}

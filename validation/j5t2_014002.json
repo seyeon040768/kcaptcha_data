@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/j5t2_014002.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "j",
+      "xmin": 44,
+      "ymin": 0,
+      "xmax": 64,
+      "ymax": 59
+    },
+    {
+      "label": "5",
+      "xmin": 54,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 69,
+      "ymin": 0,
+      "xmax": 101,
+      "ymax": 59
+    },
+    {
+      "label": "2",
+      "xmin": 84,
+      "ymin": 0,
+      "xmax": 121,
+      "ymax": 59
+    }
+  ]
+}

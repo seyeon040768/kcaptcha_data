@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/ytu6_035004.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "y",
+      "xmin": 35,
+      "ymin": 0,
+      "xmax": 63,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 59,
+      "ymin": 0,
+      "xmax": 73,
+      "ymax": 59
+    },
+    {
+      "label": "u",
+      "xmin": 70,
+      "ymin": 0,
+      "xmax": 106,
+      "ymax": 59
+    },
+    {
+      "label": "6",
+      "xmin": 99,
+      "ymin": 0,
+      "xmax": 123,
+      "ymax": 59
+    }
+  ]
+}

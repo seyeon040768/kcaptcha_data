@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/uh4o_032753.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "u",
+      "xmin": 35,
+      "ymin": 0,
+      "xmax": 61,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 85,
+      "ymax": 59
+    },
+    {
+      "label": "4",
+      "xmin": 72,
+      "ymin": 0,
+      "xmax": 105,
+      "ymax": 59
+    },
+    {
+      "label": "o",
+      "xmin": 98,
+      "ymin": 0,
+      "xmax": 121,
+      "ymax": 59
+    }
+  ]
+}

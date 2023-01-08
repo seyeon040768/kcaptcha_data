@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/u9c7_013679.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "u",
+      "xmin": 36,
+      "ymin": 0,
+      "xmax": 67,
+      "ymax": 59
+    },
+    {
+      "label": "9",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 90,
+      "ymax": 59
+    },
+    {
+      "label": "c",
+      "xmin": 74,
+      "ymin": 0,
+      "xmax": 106,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 97,
+      "ymin": 0,
+      "xmax": 123,
+      "ymax": 59
+    }
+  ]
+}

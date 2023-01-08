@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/xge2_040500.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "x",
+      "xmin": 33,
+      "ymin": 0,
+      "xmax": 70,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 58,
+      "ymin": 0,
+      "xmax": 88,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 77,
+      "ymin": 0,
+      "xmax": 113,
+      "ymax": 59
+    },
+    {
+      "label": "2",
+      "xmin": 95,
+      "ymin": 0,
+      "xmax": 128,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/al76_007028.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "a",
+      "xmin": 42,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 58,
+      "ymin": 0,
+      "xmax": 84,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 73,
+      "ymin": 0,
+      "xmax": 97,
+      "ymax": 59
+    },
+    {
+      "label": "6",
+      "xmin": 91,
+      "ymin": 0,
+      "xmax": 111,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/e77e_000030.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "e",
+      "xmin": 45,
+      "ymin": 0,
+      "xmax": 65,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 56,
+      "ymin": 0,
+      "xmax": 80,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 69,
+      "ymin": 0,
+      "xmax": 100,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 88,
+      "ymin": 0,
+      "xmax": 118,
+      "ymax": 59
+    }
+  ]
+}

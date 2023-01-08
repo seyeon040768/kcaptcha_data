@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/rhr9_008679.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "r",
+      "xmin": 33,
+      "ymin": 0,
+      "xmax": 66,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 55,
+      "ymin": 0,
+      "xmax": 84,
+      "ymax": 59
+    },
+    {
+      "label": "r",
+      "xmin": 74,
+      "ymin": 0,
+      "xmax": 103,
+      "ymax": 59
+    },
+    {
+      "label": "9",
+      "xmin": 89,
+      "ymin": 0,
+      "xmax": 128,
+      "ymax": 59
+    }
+  ]
+}

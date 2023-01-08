@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/bmgn_007317.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "b",
+      "xmin": 23,
+      "ymin": 0,
+      "xmax": 58,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 47,
+      "ymin": 0,
+      "xmax": 99,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 79,
+      "ymin": 0,
+      "xmax": 115,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 104,
+      "ymin": 0,
+      "xmax": 133,
+      "ymax": 59
+    }
+  ]
+}

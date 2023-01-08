@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/yjjl_040590.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "y",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 81,
+      "ymax": 59
+    },
+    {
+      "label": "j",
+      "xmin": 67,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "j",
+      "xmin": 81,
+      "ymin": 0,
+      "xmax": 97,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 93,
+      "ymin": 0,
+      "xmax": 106,
+      "ymax": 59
+    }
+  ]
+}

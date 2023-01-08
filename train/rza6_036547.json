@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/rza6_036547.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "r",
+      "xmin": 40,
+      "ymin": 0,
+      "xmax": 68,
+      "ymax": 59
+    },
+    {
+      "label": "z",
+      "xmin": 46,
+      "ymin": 0,
+      "xmax": 78,
+      "ymax": 59
+    },
+    {
+      "label": "a",
+      "xmin": 63,
+      "ymin": 0,
+      "xmax": 103,
+      "ymax": 59
+    },
+    {
+      "label": "6",
+      "xmin": 91,
+      "ymin": 0,
+      "xmax": 118,
+      "ymax": 59
+    }
+  ]
+}

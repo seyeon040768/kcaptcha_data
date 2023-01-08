@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/ynh5_002446.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "y",
+      "xmin": 31,
+      "ymin": 0,
+      "xmax": 56,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 86,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 80,
+      "ymin": 0,
+      "xmax": 107,
+      "ymax": 59
+    },
+    {
+      "label": "5",
+      "xmin": 105,
+      "ymin": 0,
+      "xmax": 132,
+      "ymax": 59
+    }
+  ]
+}

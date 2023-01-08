@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/t5s5_027351.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "t",
+      "xmin": 41,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "5",
+      "xmin": 57,
+      "ymin": 0,
+      "xmax": 84,
+      "ymax": 59
+    },
+    {
+      "label": "s",
+      "xmin": 79,
+      "ymin": 0,
+      "xmax": 94,
+      "ymax": 59
+    },
+    {
+      "label": "5",
+      "xmin": 87,
+      "ymin": 0,
+      "xmax": 110,
+      "ymax": 59
+    }
+  ]
+}

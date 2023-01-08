@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/lm2p_019147.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "l",
+      "xmin": 31,
+      "ymin": 0,
+      "xmax": 51,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 38,
+      "ymin": 0,
+      "xmax": 92,
+      "ymax": 59
+    },
+    {
+      "label": "2",
+      "xmin": 78,
+      "ymin": 0,
+      "xmax": 107,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 95,
+      "ymin": 0,
+      "xmax": 135,
+      "ymax": 59
+    }
+  ]
+}

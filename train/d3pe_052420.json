@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/d3pe_052420.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "d",
+      "xmin": 33,
+      "ymin": 0,
+      "xmax": 68,
+      "ymax": 59
+    },
+    {
+      "label": "3",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 89,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 74,
+      "ymin": 0,
+      "xmax": 108,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 98,
+      "ymin": 0,
+      "xmax": 134,
+      "ymax": 59
+    }
+  ]
+}

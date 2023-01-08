@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/uis6_059941.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "u",
+      "xmin": 43,
+      "ymin": 0,
+      "xmax": 76,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 60,
+      "ymin": 0,
+      "xmax": 86,
+      "ymax": 59
+    },
+    {
+      "label": "s",
+      "xmin": 70,
+      "ymin": 0,
+      "xmax": 94,
+      "ymax": 59
+    },
+    {
+      "label": "6",
+      "xmin": 89,
+      "ymin": 0,
+      "xmax": 113,
+      "ymax": 59
+    }
+  ]
+}

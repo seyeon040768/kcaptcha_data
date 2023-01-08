@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/rhg5_011227.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "r",
+      "xmin": 37,
+      "ymin": 0,
+      "xmax": 56,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 82,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 72,
+      "ymin": 0,
+      "xmax": 108,
+      "ymax": 59
+    },
+    {
+      "label": "5",
+      "xmin": 101,
+      "ymin": 0,
+      "xmax": 123,
+      "ymax": 59
+    }
+  ]
+}

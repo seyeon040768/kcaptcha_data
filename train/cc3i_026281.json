@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/cc3i_026281.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "c",
+      "xmin": 40,
+      "ymin": 0,
+      "xmax": 76,
+      "ymax": 59
+    },
+    {
+      "label": "c",
+      "xmin": 61,
+      "ymin": 0,
+      "xmax": 95,
+      "ymax": 59
+    },
+    {
+      "label": "3",
+      "xmin": 81,
+      "ymin": 0,
+      "xmax": 105,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 96,
+      "ymin": 0,
+      "xmax": 115,
+      "ymax": 59
+    }
+  ]
+}

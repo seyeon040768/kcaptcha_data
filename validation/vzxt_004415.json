@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/vzxt_004415.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "v",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 65,
+      "ymax": 59
+    },
+    {
+      "label": "z",
+      "xmin": 57,
+      "ymin": 0,
+      "xmax": 92,
+      "ymax": 59
+    },
+    {
+      "label": "x",
+      "xmin": 79,
+      "ymin": 0,
+      "xmax": 108,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 98,
+      "ymin": 0,
+      "xmax": 118,
+      "ymax": 59
+    }
+  ]
+}

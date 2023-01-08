@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/zbzt_025366.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "z",
+      "xmin": 36,
+      "ymin": 0,
+      "xmax": 65,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 50,
+      "ymin": 0,
+      "xmax": 93,
+      "ymax": 59
+    },
+    {
+      "label": "z",
+      "xmin": 74,
+      "ymin": 0,
+      "xmax": 114,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 102,
+      "ymin": 0,
+      "xmax": 125,
+      "ymax": 59
+    }
+  ]
+}

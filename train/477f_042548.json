@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/477f_042548.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "4",
+      "xmin": 35,
+      "ymin": 0,
+      "xmax": 72,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 84,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 79,
+      "ymin": 0,
+      "xmax": 111,
+      "ymax": 59
+    },
+    {
+      "label": "f",
+      "xmin": 90,
+      "ymin": 0,
+      "xmax": 124,
+      "ymax": 59
+    }
+  ]
+}

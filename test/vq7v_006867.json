@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/vq7v_006867.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "v",
+      "xmin": 32,
+      "ymin": 0,
+      "xmax": 60,
+      "ymax": 59
+    },
+    {
+      "label": "q",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 82,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 71,
+      "ymin": 0,
+      "xmax": 104,
+      "ymax": 59
+    },
+    {
+      "label": "v",
+      "xmin": 95,
+      "ymin": 0,
+      "xmax": 128,
+      "ymax": 59
+    }
+  ]
+}

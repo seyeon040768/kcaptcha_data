@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/ljmk_016118.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "l",
+      "xmin": 37,
+      "ymin": 0,
+      "xmax": 57,
+      "ymax": 59
+    },
+    {
+      "label": "j",
+      "xmin": 42,
+      "ymin": 0,
+      "xmax": 62,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 52,
+      "ymin": 0,
+      "xmax": 106,
+      "ymax": 59
+    },
+    {
+      "label": "k",
+      "xmin": 87,
+      "ymin": 0,
+      "xmax": 126,
+      "ymax": 59
+    }
+  ]
+}

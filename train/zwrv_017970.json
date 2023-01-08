@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/zwrv_017970.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "z",
+      "xmin": 26,
+      "ymin": 0,
+      "xmax": 60,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 90,
+      "ymax": 59
+    },
+    {
+      "label": "r",
+      "xmin": 78,
+      "ymin": 0,
+      "xmax": 101,
+      "ymax": 59
+    },
+    {
+      "label": "v",
+      "xmin": 90,
+      "ymin": 0,
+      "xmax": 133,
+      "ymax": 59
+    }
+  ]
+}

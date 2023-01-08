@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/jfqa_053966.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "j",
+      "xmin": 44,
+      "ymin": 0,
+      "xmax": 64,
+      "ymax": 59
+    },
+    {
+      "label": "f",
+      "xmin": 55,
+      "ymin": 0,
+      "xmax": 80,
+      "ymax": 59
+    },
+    {
+      "label": "q",
+      "xmin": 64,
+      "ymin": 0,
+      "xmax": 101,
+      "ymax": 59
+    },
+    {
+      "label": "a",
+      "xmin": 83,
+      "ymin": 0,
+      "xmax": 122,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/2tvf_010200.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "2",
+      "xmin": 40,
+      "ymin": 0,
+      "xmax": 72,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 56,
+      "ymin": 0,
+      "xmax": 84,
+      "ymax": 59
+    },
+    {
+      "label": "v",
+      "xmin": 69,
+      "ymin": 0,
+      "xmax": 98,
+      "ymax": 59
+    },
+    {
+      "label": "f",
+      "xmin": 91,
+      "ymin": 0,
+      "xmax": 112,
+      "ymax": 59
+    }
+  ]
+}

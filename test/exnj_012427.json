@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/exnj_012427.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "e",
+      "xmin": 42,
+      "ymin": 0,
+      "xmax": 65,
+      "ymax": 59
+    },
+    {
+      "label": "x",
+      "xmin": 58,
+      "ymin": 0,
+      "xmax": 88,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 76,
+      "ymin": 0,
+      "xmax": 115,
+      "ymax": 59
+    },
+    {
+      "label": "j",
+      "xmin": 99,
+      "ymin": 0,
+      "xmax": 122,
+      "ymax": 59
+    }
+  ]
+}

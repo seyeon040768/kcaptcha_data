@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/zk9e_014364.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "z",
+      "xmin": 34,
+      "ymin": 0,
+      "xmax": 58,
+      "ymax": 59
+    },
+    {
+      "label": "k",
+      "xmin": 52,
+      "ymin": 0,
+      "xmax": 89,
+      "ymax": 59
+    },
+    {
+      "label": "9",
+      "xmin": 74,
+      "ymin": 0,
+      "xmax": 110,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 101,
+      "ymin": 0,
+      "xmax": 126,
+      "ymax": 59
+    }
+  ]
+}

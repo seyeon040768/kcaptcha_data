@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/6nhn_061840.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "6",
+      "xmin": 36,
+      "ymin": 0,
+      "xmax": 58,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 52,
+      "ymin": 0,
+      "xmax": 83,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 70,
+      "ymin": 0,
+      "xmax": 108,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 99,
+      "ymin": 0,
+      "xmax": 124,
+      "ymax": 59
+    }
+  ]
+}

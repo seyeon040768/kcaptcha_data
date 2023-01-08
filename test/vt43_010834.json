@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/vt43_010834.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "v",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 67,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 59,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "4",
+      "xmin": 68,
+      "ymin": 0,
+      "xmax": 103,
+      "ymax": 59
+    },
+    {
+      "label": "3",
+      "xmin": 97,
+      "ymin": 0,
+      "xmax": 119,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/9dpm_055355.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "9",
+      "xmin": 26,
+      "ymin": 0,
+      "xmax": 56,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 47,
+      "ymin": 0,
+      "xmax": 74,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 66,
+      "ymin": 0,
+      "xmax": 97,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 85,
+      "ymin": 0,
+      "xmax": 137,
+      "ymax": 59
+    }
+  ]
+}

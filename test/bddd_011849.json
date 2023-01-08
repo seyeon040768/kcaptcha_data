@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/bddd_011849.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "b",
+      "xmin": 28,
+      "ymin": 0,
+      "xmax": 55,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 48,
+      "ymin": 0,
+      "xmax": 86,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 69,
+      "ymin": 0,
+      "xmax": 105,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 99,
+      "ymin": 0,
+      "xmax": 128,
+      "ymax": 59
+    }
+  ]
+}

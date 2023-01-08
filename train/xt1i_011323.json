@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/xt1i_011323.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "x",
+      "xmin": 40,
+      "ymin": 0,
+      "xmax": 76,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 62,
+      "ymin": 0,
+      "xmax": 90,
+      "ymax": 59
+    },
+    {
+      "label": "1",
+      "xmin": 81,
+      "ymin": 0,
+      "xmax": 102,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 94,
+      "ymin": 0,
+      "xmax": 110,
+      "ymax": 59
+    }
+  ]
+}

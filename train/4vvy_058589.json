@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/4vvy_058589.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "4",
+      "xmin": 37,
+      "ymin": 0,
+      "xmax": 63,
+      "ymax": 59
+    },
+    {
+      "label": "v",
+      "xmin": 52,
+      "ymin": 0,
+      "xmax": 85,
+      "ymax": 59
+    },
+    {
+      "label": "v",
+      "xmin": 67,
+      "ymin": 0,
+      "xmax": 108,
+      "ymax": 59
+    },
+    {
+      "label": "y",
+      "xmin": 93,
+      "ymin": 0,
+      "xmax": 122,
+      "ymax": 59
+    }
+  ]
+}

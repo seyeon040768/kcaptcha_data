@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/5pct_001396.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "5",
+      "xmin": 36,
+      "ymin": 0,
+      "xmax": 67,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 48,
+      "ymin": 0,
+      "xmax": 88,
+      "ymax": 59
+    },
+    {
+      "label": "c",
+      "xmin": 80,
+      "ymin": 0,
+      "xmax": 106,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 95,
+      "ymin": 0,
+      "xmax": 127,
+      "ymax": 59
+    }
+  ]
+}

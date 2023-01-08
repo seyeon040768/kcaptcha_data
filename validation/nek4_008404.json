@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/nek4_008404.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "n",
+      "xmin": 33,
+      "ymin": 0,
+      "xmax": 67,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 88,
+      "ymax": 59
+    },
+    {
+      "label": "k",
+      "xmin": 69,
+      "ymin": 0,
+      "xmax": 115,
+      "ymax": 59
+    },
+    {
+      "label": "4",
+      "xmin": 97,
+      "ymin": 0,
+      "xmax": 129,
+      "ymax": 59
+    }
+  ]
+}

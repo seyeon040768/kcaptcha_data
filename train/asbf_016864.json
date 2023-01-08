@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/asbf_016864.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "a",
+      "xmin": 40,
+      "ymin": 0,
+      "xmax": 67,
+      "ymax": 59
+    },
+    {
+      "label": "s",
+      "xmin": 56,
+      "ymin": 0,
+      "xmax": 82,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 68,
+      "ymin": 0,
+      "xmax": 109,
+      "ymax": 59
+    },
+    {
+      "label": "f",
+      "xmin": 93,
+      "ymin": 0,
+      "xmax": 125,
+      "ymax": 59
+    }
+  ]
+}

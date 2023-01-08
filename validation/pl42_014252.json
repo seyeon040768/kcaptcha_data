@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/pl42_014252.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "p",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 75,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 58,
+      "ymin": 0,
+      "xmax": 91,
+      "ymax": 59
+    },
+    {
+      "label": "4",
+      "xmin": 68,
+      "ymin": 0,
+      "xmax": 107,
+      "ymax": 59
+    },
+    {
+      "label": "2",
+      "xmin": 93,
+      "ymin": 0,
+      "xmax": 120,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/feu8_014879.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "f",
+      "xmin": 40,
+      "ymin": 0,
+      "xmax": 61,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 51,
+      "ymin": 0,
+      "xmax": 73,
+      "ymax": 59
+    },
+    {
+      "label": "u",
+      "xmin": 65,
+      "ymin": 0,
+      "xmax": 101,
+      "ymax": 59
+    },
+    {
+      "label": "8",
+      "xmin": 94,
+      "ymin": 0,
+      "xmax": 118,
+      "ymax": 59
+    }
+  ]
+}

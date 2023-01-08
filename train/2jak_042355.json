@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/2jak_042355.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "2",
+      "xmin": 42,
+      "ymin": 0,
+      "xmax": 65,
+      "ymax": 59
+    },
+    {
+      "label": "j",
+      "xmin": 55,
+      "ymin": 0,
+      "xmax": 75,
+      "ymax": 59
+    },
+    {
+      "label": "a",
+      "xmin": 63,
+      "ymin": 0,
+      "xmax": 101,
+      "ymax": 59
+    },
+    {
+      "label": "k",
+      "xmin": 84,
+      "ymin": 0,
+      "xmax": 120,
+      "ymax": 59
+    }
+  ]
+}

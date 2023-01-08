@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/ofmm_036762.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "o",
+      "xmin": 23,
+      "ymin": 0,
+      "xmax": 51,
+      "ymax": 59
+    },
+    {
+      "label": "f",
+      "xmin": 47,
+      "ymin": 0,
+      "xmax": 68,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 101,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 93,
+      "ymin": 0,
+      "xmax": 132,
+      "ymax": 59
+    }
+  ]
+}

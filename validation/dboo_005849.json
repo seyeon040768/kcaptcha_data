@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/dboo_005849.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "d",
+      "xmin": 30,
+      "ymin": 0,
+      "xmax": 62,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 88,
+      "ymax": 59
+    },
+    {
+      "label": "o",
+      "xmin": 75,
+      "ymin": 0,
+      "xmax": 108,
+      "ymax": 59
+    },
+    {
+      "label": "o",
+      "xmin": 99,
+      "ymin": 0,
+      "xmax": 136,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/tlp4_001554.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "t",
+      "xmin": 45,
+      "ymin": 0,
+      "xmax": 59,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 55,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 63,
+      "ymin": 0,
+      "xmax": 95,
+      "ymax": 59
+    },
+    {
+      "label": "4",
+      "xmin": 91,
+      "ymin": 0,
+      "xmax": 116,
+      "ymax": 59
+    }
+  ]
+}

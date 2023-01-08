@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/d3oz_029847.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "d",
+      "xmin": 34,
+      "ymin": 0,
+      "xmax": 70,
+      "ymax": 59
+    },
+    {
+      "label": "3",
+      "xmin": 51,
+      "ymin": 0,
+      "xmax": 91,
+      "ymax": 59
+    },
+    {
+      "label": "o",
+      "xmin": 78,
+      "ymin": 0,
+      "xmax": 107,
+      "ymax": 59
+    },
+    {
+      "label": "z",
+      "xmin": 97,
+      "ymin": 0,
+      "xmax": 127,
+      "ymax": 59
+    }
+  ]
+}

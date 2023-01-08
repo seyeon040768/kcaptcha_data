@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/vgf5_039181.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "v",
+      "xmin": 35,
+      "ymin": 0,
+      "xmax": 73,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 52,
+      "ymin": 0,
+      "xmax": 91,
+      "ymax": 59
+    },
+    {
+      "label": "f",
+      "xmin": 83,
+      "ymin": 0,
+      "xmax": 108,
+      "ymax": 59
+    },
+    {
+      "label": "5",
+      "xmin": 95,
+      "ymin": 0,
+      "xmax": 130,
+      "ymax": 59
+    }
+  ]
+}

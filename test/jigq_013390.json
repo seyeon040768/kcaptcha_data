@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/jigq_013390.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "j",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 53,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 48,
+      "ymin": 0,
+      "xmax": 67,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 58,
+      "ymin": 0,
+      "xmax": 96,
+      "ymax": 59
+    },
+    {
+      "label": "q",
+      "xmin": 89,
+      "ymin": 0,
+      "xmax": 115,
+      "ymax": 59
+    }
+  ]
+}

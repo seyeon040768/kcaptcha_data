@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/uljq_009253.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "u",
+      "xmin": 40,
+      "ymin": 0,
+      "xmax": 83,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 59,
+      "ymin": 0,
+      "xmax": 90,
+      "ymax": 59
+    },
+    {
+      "label": "j",
+      "xmin": 70,
+      "ymin": 0,
+      "xmax": 95,
+      "ymax": 59
+    },
+    {
+      "label": "q",
+      "xmin": 84,
+      "ymin": 0,
+      "xmax": 115,
+      "ymax": 59
+    }
+  ]
+}

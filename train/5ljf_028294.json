@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/5ljf_028294.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "5",
+      "xmin": 50,
+      "ymin": 0,
+      "xmax": 74,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 63,
+      "ymin": 0,
+      "xmax": 85,
+      "ymax": 59
+    },
+    {
+      "label": "j",
+      "xmin": 69,
+      "ymin": 0,
+      "xmax": 93,
+      "ymax": 59
+    },
+    {
+      "label": "f",
+      "xmin": 79,
+      "ymin": 0,
+      "xmax": 117,
+      "ymax": 59
+    }
+  ]
+}

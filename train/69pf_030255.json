@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/69pf_030255.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "6",
+      "xmin": 33,
+      "ymin": 0,
+      "xmax": 70,
+      "ymax": 59
+    },
+    {
+      "label": "9",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 77,
+      "ymin": 0,
+      "xmax": 108,
+      "ymax": 59
+    },
+    {
+      "label": "f",
+      "xmin": 95,
+      "ymin": 0,
+      "xmax": 130,
+      "ymax": 59
+    }
+  ]
+}

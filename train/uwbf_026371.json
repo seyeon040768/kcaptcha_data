@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/uwbf_026371.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "u",
+      "xmin": 26,
+      "ymin": 0,
+      "xmax": 57,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 47,
+      "ymin": 0,
+      "xmax": 88,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 76,
+      "ymin": 0,
+      "xmax": 111,
+      "ymax": 59
+    },
+    {
+      "label": "f",
+      "xmin": 106,
+      "ymin": 0,
+      "xmax": 128,
+      "ymax": 59
+    }
+  ]
+}

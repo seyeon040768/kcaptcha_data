@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/0an0_001230.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "0",
+      "xmin": 35,
+      "ymin": 0,
+      "xmax": 62,
+      "ymax": 59
+    },
+    {
+      "label": "a",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 85,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 71,
+      "ymin": 0,
+      "xmax": 111,
+      "ymax": 59
+    },
+    {
+      "label": "0",
+      "xmin": 97,
+      "ymin": 0,
+      "xmax": 125,
+      "ymax": 59
+    }
+  ]
+}

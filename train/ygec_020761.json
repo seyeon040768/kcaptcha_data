@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/ygec_020761.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "y",
+      "xmin": 38,
+      "ymin": 0,
+      "xmax": 74,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 51,
+      "ymin": 0,
+      "xmax": 89,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 75,
+      "ymin": 0,
+      "xmax": 103,
+      "ymax": 59
+    },
+    {
+      "label": "c",
+      "xmin": 95,
+      "ymin": 0,
+      "xmax": 120,
+      "ymax": 59
+    }
+  ]
+}

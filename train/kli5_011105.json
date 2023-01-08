@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/kli5_011105.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "k",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 83,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 66,
+      "ymin": 0,
+      "xmax": 94,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 76,
+      "ymin": 0,
+      "xmax": 103,
+      "ymax": 59
+    },
+    {
+      "label": "5",
+      "xmin": 82,
+      "ymin": 0,
+      "xmax": 111,
+      "ymax": 59
+    }
+  ]
+}

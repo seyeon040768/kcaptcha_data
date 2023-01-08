@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/xtar_010494.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "x",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 71,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 55,
+      "ymin": 0,
+      "xmax": 86,
+      "ymax": 59
+    },
+    {
+      "label": "a",
+      "xmin": 72,
+      "ymin": 0,
+      "xmax": 107,
+      "ymax": 59
+    },
+    {
+      "label": "r",
+      "xmin": 94,
+      "ymin": 0,
+      "xmax": 120,
+      "ymax": 59
+    }
+  ]
+}

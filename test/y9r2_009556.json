@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/y9r2_009556.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "y",
+      "xmin": 38,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "9",
+      "xmin": 56,
+      "ymin": 0,
+      "xmax": 96,
+      "ymax": 59
+    },
+    {
+      "label": "r",
+      "xmin": 79,
+      "ymin": 0,
+      "xmax": 112,
+      "ymax": 59
+    },
+    {
+      "label": "2",
+      "xmin": 95,
+      "ymin": 0,
+      "xmax": 122,
+      "ymax": 59
+    }
+  ]
+}

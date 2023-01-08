@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/rnxp_014152.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "r",
+      "xmin": 30,
+      "ymin": 0,
+      "xmax": 62,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 41,
+      "ymin": 0,
+      "xmax": 84,
+      "ymax": 59
+    },
+    {
+      "label": "x",
+      "xmin": 73,
+      "ymin": 0,
+      "xmax": 102,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 89,
+      "ymin": 0,
+      "xmax": 132,
+      "ymax": 59
+    }
+  ]
+}

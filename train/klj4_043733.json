@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/klj4_043733.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "k",
+      "xmin": 45,
+      "ymin": 0,
+      "xmax": 86,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 60,
+      "ymin": 0,
+      "xmax": 92,
+      "ymax": 59
+    },
+    {
+      "label": "j",
+      "xmin": 68,
+      "ymin": 0,
+      "xmax": 97,
+      "ymax": 59
+    },
+    {
+      "label": "4",
+      "xmin": 85,
+      "ymin": 0,
+      "xmax": 113,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/iits_025763.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "i",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 72,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 60,
+      "ymin": 0,
+      "xmax": 83,
+      "ymax": 59
+    },
+    {
+      "label": "t",
+      "xmin": 74,
+      "ymin": 0,
+      "xmax": 94,
+      "ymax": 59
+    },
+    {
+      "label": "s",
+      "xmin": 89,
+      "ymin": 0,
+      "xmax": 105,
+      "ymax": 59
+    }
+  ]
+}

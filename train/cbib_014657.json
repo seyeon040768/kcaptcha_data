@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/cbib_014657.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "c",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 61,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 52,
+      "ymin": 0,
+      "xmax": 89,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 81,
+      "ymin": 0,
+      "xmax": 97,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 89,
+      "ymin": 0,
+      "xmax": 113,
+      "ymax": 59
+    }
+  ]
+}

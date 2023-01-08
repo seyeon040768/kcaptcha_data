@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/cld8_014318.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "c",
+      "xmin": 36,
+      "ymin": 0,
+      "xmax": 70,
+      "ymax": 59
+    },
+    {
+      "label": "l",
+      "xmin": 52,
+      "ymin": 0,
+      "xmax": 78,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 66,
+      "ymin": 0,
+      "xmax": 94,
+      "ymax": 59
+    },
+    {
+      "label": "8",
+      "xmin": 88,
+      "ymin": 0,
+      "xmax": 122,
+      "ymax": 59
+    }
+  ]
+}

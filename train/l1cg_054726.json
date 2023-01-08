@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/l1cg_054726.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "l",
+      "xmin": 42,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "1",
+      "xmin": 50,
+      "ymin": 0,
+      "xmax": 81,
+      "ymax": 59
+    },
+    {
+      "label": "c",
+      "xmin": 65,
+      "ymin": 0,
+      "xmax": 92,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 85,
+      "ymin": 0,
+      "xmax": 112,
+      "ymax": 59
+    }
+  ]
+}

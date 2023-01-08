@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/dqmb_014743.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "d",
+      "xmin": 23,
+      "ymin": 0,
+      "xmax": 56,
+      "ymax": 59
+    },
+    {
+      "label": "q",
+      "xmin": 48,
+      "ymin": 0,
+      "xmax": 77,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 67,
+      "ymin": 0,
+      "xmax": 116,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 100,
+      "ymin": 0,
+      "xmax": 137,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/fmui_034653.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "f",
+      "xmin": 38,
+      "ymin": 0,
+      "xmax": 64,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 48,
+      "ymin": 0,
+      "xmax": 93,
+      "ymax": 59
+    },
+    {
+      "label": "u",
+      "xmin": 76,
+      "ymin": 0,
+      "xmax": 116,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 103,
+      "ymin": 0,
+      "xmax": 123,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/zhpw_013286.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "z",
+      "xmin": 26,
+      "ymin": 0,
+      "xmax": 53,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 47,
+      "ymin": 0,
+      "xmax": 81,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 64,
+      "ymin": 0,
+      "xmax": 104,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 88,
+      "ymin": 0,
+      "xmax": 131,
+      "ymax": 59
+    }
+  ]
+}

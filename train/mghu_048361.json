@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/mghu_048361.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "m",
+      "xmin": 19,
+      "ymin": 0,
+      "xmax": 67,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 55,
+      "ymin": 0,
+      "xmax": 97,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 80,
+      "ymin": 0,
+      "xmax": 121,
+      "ymax": 59
+    },
+    {
+      "label": "u",
+      "xmin": 107,
+      "ymin": 0,
+      "xmax": 140,
+      "ymax": 59
+    }
+  ]
+}

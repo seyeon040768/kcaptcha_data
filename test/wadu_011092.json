@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/wadu_011092.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "w",
+      "xmin": 22,
+      "ymin": 0,
+      "xmax": 73,
+      "ymax": 59
+    },
+    {
+      "label": "a",
+      "xmin": 53,
+      "ymin": 0,
+      "xmax": 91,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 81,
+      "ymin": 0,
+      "xmax": 115,
+      "ymax": 59
+    },
+    {
+      "label": "u",
+      "xmin": 99,
+      "ymin": 0,
+      "xmax": 142,
+      "ymax": 59
+    }
+  ]
+}

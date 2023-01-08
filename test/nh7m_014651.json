@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/nh7m_014651.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "n",
+      "xmin": 19,
+      "ymin": 0,
+      "xmax": 54,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 47,
+      "ymin": 0,
+      "xmax": 78,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 66,
+      "ymin": 0,
+      "xmax": 101,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 92,
+      "ymin": 0,
+      "xmax": 134,
+      "ymax": 59
+    }
+  ]
+}

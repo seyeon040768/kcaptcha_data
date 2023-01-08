@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/skgm_050914.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "s",
+      "xmin": 28,
+      "ymin": 0,
+      "xmax": 53,
+      "ymax": 59
+    },
+    {
+      "label": "k",
+      "xmin": 42,
+      "ymin": 0,
+      "xmax": 73,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 63,
+      "ymin": 0,
+      "xmax": 94,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 82,
+      "ymin": 0,
+      "xmax": 135,
+      "ymax": 59
+    }
+  ]
+}

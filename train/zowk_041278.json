@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/zowk_041278.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "z",
+      "xmin": 25,
+      "ymin": 0,
+      "xmax": 50,
+      "ymax": 59
+    },
+    {
+      "label": "o",
+      "xmin": 42,
+      "ymin": 0,
+      "xmax": 77,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 62,
+      "ymin": 0,
+      "xmax": 113,
+      "ymax": 59
+    },
+    {
+      "label": "k",
+      "xmin": 103,
+      "ymin": 0,
+      "xmax": 134,
+      "ymax": 59
+    }
+  ]
+}

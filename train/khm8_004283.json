@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/khm8_004283.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "k",
+      "xmin": 17,
+      "ymin": 0,
+      "xmax": 56,
+      "ymax": 59
+    },
+    {
+      "label": "h",
+      "xmin": 49,
+      "ymin": 0,
+      "xmax": 79,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 69,
+      "ymin": 0,
+      "xmax": 122,
+      "ymax": 59
+    },
+    {
+      "label": "8",
+      "xmin": 113,
+      "ymin": 0,
+      "xmax": 138,
+      "ymax": 59
+    }
+  ]
+}

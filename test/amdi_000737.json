@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/amdi_000737.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "a",
+      "xmin": 27,
+      "ymin": 0,
+      "xmax": 57,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 41,
+      "ymin": 0,
+      "xmax": 96,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 88,
+      "ymin": 0,
+      "xmax": 127,
+      "ymax": 59
+    },
+    {
+      "label": "i",
+      "xmin": 105,
+      "ymin": 0,
+      "xmax": 138,
+      "ymax": 59
+    }
+  ]
+}

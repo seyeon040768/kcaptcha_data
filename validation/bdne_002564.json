@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/bdne_002564.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "b",
+      "xmin": 28,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 50,
+      "ymin": 0,
+      "xmax": 90,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 79,
+      "ymin": 0,
+      "xmax": 117,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 97,
+      "ymin": 0,
+      "xmax": 136,
+      "ymax": 59
+    }
+  ]
+}

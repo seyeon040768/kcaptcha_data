@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/wunk_007968.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "w",
+      "xmin": 16,
+      "ymin": 0,
+      "xmax": 63,
+      "ymax": 59
+    },
+    {
+      "label": "u",
+      "xmin": 52,
+      "ymin": 0,
+      "xmax": 91,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 74,
+      "ymin": 0,
+      "xmax": 118,
+      "ymax": 59
+    },
+    {
+      "label": "k",
+      "xmin": 107,
+      "ymin": 0,
+      "xmax": 142,
+      "ymax": 59
+    }
+  ]
+}

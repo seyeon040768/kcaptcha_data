@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/test/mpyp_011653.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "m",
+      "xmin": 21,
+      "ymin": 0,
+      "xmax": 69,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 60,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "y",
+      "xmin": 78,
+      "ymin": 0,
+      "xmax": 119,
+      "ymax": 59
+    },
+    {
+      "label": "p",
+      "xmin": 102,
+      "ymin": 0,
+      "xmax": 138,
+      "ymax": 59
+    }
+  ]
+}

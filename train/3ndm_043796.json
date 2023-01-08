@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/3ndm_043796.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "3",
+      "xmin": 23,
+      "ymin": 0,
+      "xmax": 44,
+      "ymax": 59
+    },
+    {
+      "label": "n",
+      "xmin": 38,
+      "ymin": 0,
+      "xmax": 77,
+      "ymax": 59
+    },
+    {
+      "label": "d",
+      "xmin": 68,
+      "ymin": 0,
+      "xmax": 96,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 89,
+      "ymin": 0,
+      "xmax": 140,
+      "ymax": 59
+    }
+  ]
+}

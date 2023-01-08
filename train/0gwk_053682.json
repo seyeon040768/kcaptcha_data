@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/0gwk_053682.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "0",
+      "xmin": 15,
+      "ymin": 0,
+      "xmax": 52,
+      "ymax": 59
+    },
+    {
+      "label": "g",
+      "xmin": 43,
+      "ymin": 0,
+      "xmax": 71,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 63,
+      "ymin": 0,
+      "xmax": 117,
+      "ymax": 59
+    },
+    {
+      "label": "k",
+      "xmin": 103,
+      "ymin": 0,
+      "xmax": 137,
+      "ymax": 59
+    }
+  ]
+}

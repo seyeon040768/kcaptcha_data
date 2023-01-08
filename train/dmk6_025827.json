@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/dmk6_025827.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "d",
+      "xmin": 20,
+      "ymin": 0,
+      "xmax": 53,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 38,
+      "ymin": 0,
+      "xmax": 92,
+      "ymax": 59
+    },
+    {
+      "label": "k",
+      "xmin": 84,
+      "ymin": 0,
+      "xmax": 124,
+      "ymax": 59
+    },
+    {
+      "label": "6",
+      "xmin": 106,
+      "ymin": 0,
+      "xmax": 143,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/gwmv_059042.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "g",
+      "xmin": 15,
+      "ymin": 0,
+      "xmax": 46,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 34,
+      "ymin": 0,
+      "xmax": 85,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 73,
+      "ymin": 0,
+      "xmax": 127,
+      "ymax": 59
+    },
+    {
+      "label": "v",
+      "xmin": 106,
+      "ymin": 0,
+      "xmax": 145,
+      "ymax": 59
+    }
+  ]
+}

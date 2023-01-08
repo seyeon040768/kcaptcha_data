@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/validation/6mme_012828.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "6",
+      "xmin": 23,
+      "ymin": 0,
+      "xmax": 46,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 84,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 70,
+      "ymin": 0,
+      "xmax": 121,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 112,
+      "ymin": 0,
+      "xmax": 134,
+      "ymax": 59
+    }
+  ]
+}

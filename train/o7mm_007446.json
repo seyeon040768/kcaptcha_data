@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/o7mm_007446.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "o",
+      "xmin": 14,
+      "ymin": 0,
+      "xmax": 43,
+      "ymax": 59
+    },
+    {
+      "label": "7",
+      "xmin": 36,
+      "ymin": 0,
+      "xmax": 63,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 52,
+      "ymin": 0,
+      "xmax": 107,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 98,
+      "ymin": 0,
+      "xmax": 148,
+      "ymax": 59
+    }
+  ]
+}

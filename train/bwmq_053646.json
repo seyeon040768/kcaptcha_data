@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/bwmq_053646.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "b",
+      "xmin": 14,
+      "ymin": 0,
+      "xmax": 49,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 37,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 66,
+      "ymin": 0,
+      "xmax": 120,
+      "ymax": 59
+    },
+    {
+      "label": "q",
+      "xmin": 110,
+      "ymin": 0,
+      "xmax": 145,
+      "ymax": 59
+    }
+  ]
+}

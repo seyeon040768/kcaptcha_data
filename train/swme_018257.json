@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/swme_018257.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "s",
+      "xmin": 26,
+      "ymin": 0,
+      "xmax": 47,
+      "ymax": 59
+    },
+    {
+      "label": "w",
+      "xmin": 36,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 66,
+      "ymin": 0,
+      "xmax": 115,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 104,
+      "ymin": 0,
+      "xmax": 141,
+      "ymax": 59
+    }
+  ]
+}

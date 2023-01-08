@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/gmme_031528.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "g",
+      "xmin": 15,
+      "ymin": 0,
+      "xmax": 42,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 36,
+      "ymin": 0,
+      "xmax": 87,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 77,
+      "ymin": 0,
+      "xmax": 122,
+      "ymax": 59
+    },
+    {
+      "label": "e",
+      "xmin": 114,
+      "ymin": 0,
+      "xmax": 146,
+      "ymax": 59
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "path": "C:/Users/seyeo/Documents/kcaptcha-generator-master/.data/train/nmbm_023513.png",
+  "width": 160,
+  "height": 60,
+  "image_format": "png",
+  "bbox": [
+    {
+      "label": "n",
+      "xmin": 11,
+      "ymin": 0,
+      "xmax": 49,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 39,
+      "ymin": 0,
+      "xmax": 89,
+      "ymax": 59
+    },
+    {
+      "label": "b",
+      "xmin": 68,
+      "ymin": 0,
+      "xmax": 104,
+      "ymax": 59
+    },
+    {
+      "label": "m",
+      "xmin": 97,
+      "ymin": 0,
+      "xmax": 147,
+      "ymax": 59
+    }
+  ]
+}
